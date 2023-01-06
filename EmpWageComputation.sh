@@ -1,4 +1,4 @@
-echo "Welcome to Employee Wage Computation Program"
+echo " Welcome to Employee Wage Computation Program"
 
 isPartTime=1
 isFullTime=2
