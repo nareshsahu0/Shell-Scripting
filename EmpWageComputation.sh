@@ -1,6 +1,6 @@
 echo " Welcome to Employee Wage Computation Program"
 
-isPartTime=1
+ isPartTime=1
 isFullTime=2
 empRatePerHr=20
 totalSalary=0
